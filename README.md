@@ -1,4 +1,4 @@
-# regex-to-dfa-visual
+# regex-to-dfa-visual..
 
 Visual representation of Regular Expression parsed into a NFA / DFA.
 
